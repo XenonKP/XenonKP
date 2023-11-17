@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @XenonKP
-- 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on TBA
-- 📫 How to reach me TBA
+- Hi, I’m @XenonKP
+- I’m interested in Gamedev
+-  I’m currently learning C++
 
 <!---
 XenonKP/XenonKP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
